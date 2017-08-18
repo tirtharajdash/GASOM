@@ -2,13 +2,13 @@
 GASOM: Genetic Algorithm assisted Architecture Learning in Self Organizing Maps
 
 ## Article detail:
-The article has been accepted (published) in the Proceedings of the 24th International Conference on Neural Information Processing, held in Guangzhou, China, November 14–18, 2017. (http://www.iconip2017.org/)
+The article has been accepted (to appear, or published) in the Proceedings of the 24th International Conference on Neural Information Processing, held in Guangzhou, China, November 14–18, 2017. (http://www.iconip2017.org/)
 
 ## Citation request:
 Will be updated soon.
 
 ## Language:
-Written in Python. The code has been parallelized for its GA implementation.
+The GASOM software is written in Python. The GA implementation of the software is parallelized for efficiency.
 
 ## Dependencies:
 
