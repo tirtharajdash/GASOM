@@ -4,6 +4,10 @@ GASOM: Genetic Algorithm assisted Architecture Learning in Self Organizing Maps
 ## Article detail:
 The article has been accepted (to appear, or published) in the Proceedings of the 24th International Conference on Neural Information Processing, held in Guangzhou, China, November 14–18, 2017. (http://www.iconip2017.org/)
 
+## Authors:
+Ashutosh Saboo, Anant Sharma, Tirtharaj Dash
+Data Science Research Group, Department of Computer Science, BITS Pilani, Goa Campus, India
+
 ## Citation request:
 Will be updated soon.
 
