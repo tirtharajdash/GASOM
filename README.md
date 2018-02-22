@@ -10,7 +10,7 @@ Ashutosh Saboo, Anant Sharma, Tirtharaj Dash
 Data Science Research Group, Department of Computer Science, BITS Pilani, Goa Campus, India
 
 ## Citation request:
-Will be updated soon.
+Saboo A., Sharma A., Dash T. (2017) GASOM: Genetic Algorithm Assisted Architecture Learning in Self Organizing Maps. In: Liu D., Xie S., Li Y., Zhao D., El-Alfy ES. (eds) Neural Information Processing. ICONIP 2017. Lecture Notes in Computer Science, vol 10634. Springer, Cham 
 
 ## Language:
 The GASOM software is written in Python. The GA implementation of the software is parallelized for efficiency.
